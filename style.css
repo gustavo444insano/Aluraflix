@@ -1,17 +1,4 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-<meta charset="UTF-8" />
-<title>Teste fundo</title>
-<style>
-  body {
-    color: rgb(53, 43, 27);
-    background-color: blueviolet;
-  }
-</style>
-</head>
-<body>
-  <h1>Olá! Este é um teste.</h1>
-  <p>O fundo deveria estar azul-violeta.</p>
-</body>
-</html>
+body {
+  color: rgb(53, 43, 27);
+  background-color: blueviolet;
+}
